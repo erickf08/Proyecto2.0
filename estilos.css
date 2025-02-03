@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+    background-color: crimson;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding: 15%;
+}
+
+button{
+    font-size: xx-large;
+    pad: 0.200em;
+}
+
+#yestn{
+    transform: translate(-150%,0);
+}
+
+#notn{
+    position: absolute;
+}
